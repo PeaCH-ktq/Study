@@ -1,0 +1,7 @@
+/* @theme marpit-theme */
+
+@import "default";
+
+.flex {
+  display: flex;
+}
